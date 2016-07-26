@@ -75,6 +75,7 @@ AC_CONFIG_FILES([Makefile                \
                  src/dcp/Makefile        \
                  src/dcp2/Makefile       \
                  src/dfilemaker/Makefile \
+                 src/dpurgelist/Makefile \
                  src/drm/Makefile        \
                  src/dwalk/Makefile      \
 ])
